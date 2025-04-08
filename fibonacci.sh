@@ -16,4 +16,3 @@ do
   b=$fn
 done
 
-echo
